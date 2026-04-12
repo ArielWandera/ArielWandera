@@ -1,6 +1,6 @@
 # Hey, I'm Ariel 👋
 
-Backend software engineer based in Kampala, Uganda. I build server-side systems with a focus on clean architecture, microservices, and real-world impact — currently working on infrastructure that connects smallholder farmers to markets across East Africa.
+Backend software engineer. I build server-side systems with a focus on clean architecture, microservices, and real-world impact — currently working on infrastructure that connects smallholder farmers to markets across East Africa.
 
 ---
 
